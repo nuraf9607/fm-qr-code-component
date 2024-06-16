@@ -15,7 +15,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+
 
 ## Overview
 
@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/nuraf9607/fm-qr-code-component)
-- Live Site URL: [Add live site URL here](https://nuraf9607.github.io/fm-qr-code-component/)
+- Solution URL: [Solution](https://github.com/nuraf9607/fm-qr-code-component)
+- Live Site URL: [Live Site](https://nuraf9607.github.io/fm-qr-code-component/)
 
 ## My process
 
