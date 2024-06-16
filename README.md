@@ -72,8 +72,8 @@ I have seen so much great use case of grid layouts, but this is something i am s
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/nuraf9607)
-- Twitter - [@yourusername](https://x.com/theAbdurRahman1)
+- Frontend Mentor - [@nuraf9607](https://www.frontendmentor.io/profile/nuraf9607)
+- Twitter - [@theAbdurRahman1](https://x.com/theAbdurRahman1)
 
 
 
